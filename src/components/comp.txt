@@ -1,0 +1,8 @@
+Components folder for the portfolio, which includes:
+- Hero Component
+- Navigation Bar Components
+- About Component
+- Expertise Component
+- Projects Component
+- Experience Component
+- Contact Component
