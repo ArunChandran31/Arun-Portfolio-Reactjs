@@ -1,0 +1,1 @@
+Constant folder, which includes the const variables and its values for the portfolio
